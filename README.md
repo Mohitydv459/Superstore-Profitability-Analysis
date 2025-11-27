@@ -39,7 +39,7 @@ The **Central Region** is the primary contributor to the negative profit margins
 
 ## 📊 Dashboard Visuals
 
-*(<img width="1586" height="575" alt="Screenshot 2025-11-27 174917" src="https://github.com/user-attachments/assets/24a15c53-9867-466f-af0d-db5a6177f6ec" />)*
+*<img width="1586" height="575" alt="Screenshot 2025-11-27 174917" src="https://github.com/user-attachments/assets/24a15c53-9867-466f-af0d-db5a6177f6ec" />*
 
 > *Above: The interactive dashboard highlighting the "Profit Cliff" and Category Performance.*
 
